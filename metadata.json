@@ -1,0 +1,6 @@
+{
+  "name": "ВикторинаПро — Мобильная Квиз-Платформа",
+  "description": "Мобильная платформа для прохождения интерактивных тестов с аналитикой результатов в реальном времени.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
